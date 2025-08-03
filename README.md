@@ -37,7 +37,7 @@
 
 ###
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/vishesh_madan_?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/vishesh_madan_?ext=activity)
 
 <h3 align="left">🛠 Language and tools</h3>
 

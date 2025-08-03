@@ -34,6 +34,7 @@
 <p align="left">👋 Hi there! I'm Vishesh Kumar 🎓 B.Tech CSE | Lovely Professional University 🖥️ Coding Enthusiast | 📍 Rohtak, Haryana<br><br>🚀 What I Do: 💻 I code in C, C++, and Python<br><br>🌐 Exploring Web Development<br><br>📈 Currently mastering Data Structures & Algorithms<br><br>🔍 Problem Solver on LeetCode & Codeforces<br><br>🎯 Goals:<br><br>Become a skilled problem solver Build efficient and scalable solutions Contribute to open-source projects 📸 Besides coding, I love capturing moments and being creatively sarcastic 😄 "Consistency is the key to mastery!"</p>
 
 ![](https://leetcard.jacoblin.cool/vishesh_madan_?ext=heatmap)
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
